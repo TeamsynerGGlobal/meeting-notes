@@ -49,12 +49,12 @@
 
 ## Action Items
 
-1. **Max onboarding development**
+1. **Max to begin onboarding development**
    - Create boilerplate onboarding template with a welcome screen and tour functionality
    - Build toggle system for easy on/off control
    - Include skip options throughout tour experience
    - Store tour settings for users to restart if needed
-2. **Sisey Tailwind CSS transition and marketplace work**
+2. **Sisey to implement Tailwind CSS transition and enhance the Marketplace page**
    - Focus on Tailwind implementation as primary task this week
    - Enhance marketplace UI with “what’s included” section based on Max’s suggestions
    - Add screenshots/gallery and support information sections
@@ -66,11 +66,11 @@
    - Discuss trade-offs between interactivity and ease of use
    - Present alternative of using Zoom polls with quiz functionality
    - Consider “choose your own adventure” scenario-based approach using AI-generated content
-4. **Development workflow improvements**
+4. **Tanya to begin QA**
+   - Begin quality assurance testing on current features
+   - Start systematic review of existing functionality
+5. **Development workflow improvements**
    - Zane to make minor workflow adjustments in app (remove default sections, questions at base level)
    - Review client data separation and loading logic
    - Focus on responsiveness completion this week
    - Schedule development calls with Tai once he returns
-5. **Tanya QA initiation**
-   - Begin quality assurance testing on current features
-   - Start systematic review of existing functionality

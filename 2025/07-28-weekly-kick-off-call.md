@@ -47,28 +47,28 @@
 
 ## Action Items
 
-- **Max onboarding development**
+- [ ] **Max onboarding development**
   - Create boilerplate onboarding template with a welcome screen and tour functionality
   - Build toggle system for easy on/off control
   - Include skip options throughout tour experience
   - Store tour settings for users to restart if needed
-- **Sisey Tailwind CSS transition and marketplace work**
+- [ ] **Sisey Tailwind CSS transition and marketplace work**
   - Focus on Tailwind implementation as primary task this week
   - Enhance marketplace UI with “what’s included” section based on Max’s suggestions
   - Add screenshots/gallery and support information sections
   - Consider checkbox option during survey creation for “add to marketplace”
   - Think through marketplace workflow from the user perspective
-- **Zane to contact Audrey about Kahoot integration**
+- [ ] **Zane to contact Audrey about Kahoot integration**
   - Explain Kahoot user experience for webinar participants
   - Address complexity for mobile-only users (requires switching between apps)
   - Discuss trade-offs between interactivity and ease of use
   - Present alternative of using Zoom polls with quiz functionality
   - Consider “choose your own adventure” scenario-based approach using AI-generated content
-- **Development workflow improvements**
+- [ ] **Development workflow improvements**
   - Zane to make minor workflow adjustments in app (remove default sections, questions at base level)
   - Review client data separation and loading logic
   - Focus on responsiveness completion this week
   - Schedule development calls with Tai once he returns
-- **Tanya QA initiation**
+- [ ] **Tanya QA initiation**
   - Begin quality assurance testing on current features
   - Start systematic review of existing functionality

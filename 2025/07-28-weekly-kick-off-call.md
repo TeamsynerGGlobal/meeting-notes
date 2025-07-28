@@ -9,20 +9,20 @@
 ##  Updates
 
 1. **Max working on Coursera AI course progress**
-  - Completed first module covering development lifecycle, different models (agile, waterfall, scrum), and team roles
-  - Starting module two today on introduction to software development
-  - AI content begins in Part 2 of the course
-  - Course includes quizzes with multiple choice format and timed assignments
-  - Allocated 4 hours per week for coursework with flexibility for additional time if needed
+   - Completed first module covering development lifecycle, different models (agile, waterfall, scrum), and team roles
+   - Starting module two today on introduction to software development
+   - AI content begins in Part 2 of the course
+   - Course includes quizzes with multiple choice format and timed assignments
+   - Allocated 4 hours per week for coursework with flexibility for additional time if needed
 2. **Development team focus areas this week**
-  - Tailwind CSS transition priority for Sisey
-  - Tanya starting QA work on existing features
-  - Tai returning Wednesday/Thursday after settling back in
-  - Planning more development calls once Tai returns for step-by-step workflow improvements
+   - Tailwind CSS transition priority for Sisey
+   - Tanya starting QA work on existing features
+   - Tai returning Wednesday/Thursday after settling back in
+   - Planning more development calls once Tai returns for step-by-step workflow improvements
 3. **Website inventory needed**
-  - Review current state of new TeamSynergy site versus old version
-  - Identify areas not migrated or at different fidelity levels
-  - Check for missing videos and content gaps
+   - Review current state of new TeamSynergy site versus old version
+   - Identify areas not migrated or at different fidelity levels
+   - Check for missing videos and content gaps
 
 ## Issues
 

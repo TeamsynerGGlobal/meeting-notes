@@ -1,10 +1,16 @@
-# IT + DT: Weekly Kick Off Call
+# IT + DT Weekly Kick Off Call – July 28, 2025
 
-Tue, 05 Aug 25
+**Date:** 2025-08-05
+
+**Facilitator:** Zane
+
+**Attendees:** Max, Sisey, Tai
+
+---
 
 ## Updates
 
-1. Survey tool development progress for Audrey demo
+1. Survey tool development progress for demo with Audrey
     - Drag and drop functionality almost complete with testing underway
     - Storyboard preparation on track for today’s delivery
     - Version history feature implemented
@@ -33,7 +39,7 @@ Tue, 05 Aug 25
     - Thursday 2pm: Internal demo practice run
     - Hide incomplete features before external demo
 2. Development decisions needed
-    - Max to prepare onboarding wizard demo by Friday
+    - Max to prepare onboarding wizard demo by EOD Friday
     - Establish global auto-save vs manual save approach
     - Standardize modal vs slide-over interface patterns
 3. Post-demo priorities

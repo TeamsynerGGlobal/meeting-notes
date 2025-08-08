@@ -1,4 +1,4 @@
-# IT + DT Weekly Kick Off Call – August 1, 2025
+# Department Weekly Meeting – August 1, 2025
 
 **Date:** 2025-08-01
 

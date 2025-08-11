@@ -1,4 +1,4 @@
-# IT + DT Weekly Kick Off Call – July 28, 2025
+# IT + DT Weekly Kick Off Call – August 8, 2025
 
 **Date:** 2025-08-05
 

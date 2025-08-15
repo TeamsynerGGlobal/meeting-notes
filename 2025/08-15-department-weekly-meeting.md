@@ -12,22 +12,22 @@
 
 - Sisey provided updates on the email signature app
   - Has numerous templates available, pulls data from Microsoft tenant settings
-  - Users can select from multiple signatures via dropdown
+  - Users can select from multiple signatures via a dropdown
   - Currently internal-only (no external email signatures)
-  - Requested standard banner from Li for current LinkedIn design
+  - Requested standard banner from Li for the current LinkedIn design
 - Sisey presented Bootstrap research
-  - Implemented responsive design on market and settings pages
+  - Implemented responsive design on the market and settings pages
   - Explained Bootstrap’s 12-column grid system and component library
-- Max showed progress on onboarding feature
+- Max showed progress on the onboarding feature
   - Interactive step-by-step guidance with highlighting and task tracking
   - Finds UI elements by href attributes and attaches click listeners
   - Toggle feature implemented for testing
-- Max completed Google Analytics walkthrough with Catherine
-  - Showed existing tracking, identified need for Google Tags for specific interactions
+- Max completed the Google Analytics walkthrough with Catherine
+  - Showed existing tracking, identified the need for Google Tags for specific interactions
   - Still resolving account access issues
 - Max organized UI components documentation
   - Condensed pages into essential building blocks
-  - Identified nested containers as most common elements
+  - Identified nested containers as the most common elements
   - Found problematic table layouts needing redesign
 - Tai implemented video tracking for Team Synergy programs
   - Tracks users spending 10+ minutes watching videos
@@ -35,8 +35,8 @@
 - Tai resolved survey builder question management issues
   - Fixed automatic question addition and disappearing questions
 - Tai presented marketplace design inspiration
-  - Created prototype dashboard pulling survey insights
-  - Built course recommendation engine based on survey scores
+  - Created a prototype dashboard pulling survey insights
+  - Built a course recommendation engine based on survey scores
 
 ## Issues
 
@@ -47,12 +47,11 @@
 
 ## Next Steps
 
-- Sisey to request two banner designs from Li (accountability specialist and whole person safety)
+- Sisey to request two banner designs from Lika (accountability specialist and whole person safety)
 - Sisey to investigate survey/user feedback capabilities in email signature app
 - Max to resolve Google Analytics access and implement Google Tags
-- Max to work on module elements interface design using Bootstrap components
-- Tai to focus on completing survey tool to 100% functionality
+- Max to work on module elements interface design for the LMS using Bootstrap components
+- Tai to focus on completing the survey tool to 100% functionality
 - Team to create survey generation wizard for Whole Person Safety
-- Zane to create workflow documentation for Whole Person Safety project
 - Team to prioritize revenue-generating tasks and implement focused weekly goals
-- Prepare for Catherine’s return next month for QA and documentation support
+- Prepare for Kathy’s return next month for administrative and documentation support

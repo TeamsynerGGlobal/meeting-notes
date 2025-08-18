@@ -1,6 +1,6 @@
 # IT + DT Weekly Kick Off Call – August 11, 2025
 
-**Date:** 2025-11-05
+**Date:** 2025-11-08
 
 **Facilitator:** Zane
 

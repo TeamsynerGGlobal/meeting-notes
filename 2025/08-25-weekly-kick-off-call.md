@@ -18,7 +18,7 @@
 - Shared inbox configuration in progress
   - Responses automatically use individual user signatures instead of shared mailbox
   - Sisay investigating dedicated signature option for support inbox
-- Code2 trial extended through end of week
+- CodeTwo trial extended through end of week
   - MG has billing access
   - Need final user count (currently ~20) for licensing
 

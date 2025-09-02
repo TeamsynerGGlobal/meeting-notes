@@ -33,7 +33,7 @@
 - Begin LMS development Monday with foundational pieces and project timeline
 - Fix remaining JSON issues and implement description display functionality
 - Complete WPS builder integration with import system
-- Ty to deliver reporting functionality demo by Friday
+- Tai to deliver reporting functionality demo by Friday
 - Midweek demo: 5 minutes mobile updates (Sisay), 10 minutes WPS builder (Max)
 - Kathy returning to take over SharePoint, determine development role
 - Move to 1-2 week development sprints

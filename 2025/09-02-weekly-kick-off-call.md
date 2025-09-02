@@ -4,7 +4,7 @@
 
 **Facilitator:** Zane
 
-**Attendees:** Max, Sisey, Tai
+**Attendees:** Max, Sisey, Tai, Kathy
 
 ---
 

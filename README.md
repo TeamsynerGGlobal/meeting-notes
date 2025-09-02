@@ -1,7 +1,9 @@
 # 🗂️ Meeting Notes Archive
 
 ## 2025
+### July
 - [2025-07-28: IT + DT Weekly Kick Off Call](2025/07-28-weekly-kick-off-call.md)
+### August
 - [2025-08-01: Department Weekly Meeting](2025/08-01-department-weekly-meeting.md)
 - [2025-08-05: IT + DT Weekly Kick Off Call](2025/08-05-weekly-kick-off-call.md)
 - [2025-08-08: Department Weekly Meeting](2025/08-08-department-weekly-meeting.md)
@@ -11,3 +13,5 @@
 - [2025-08-22: Department Weekly Meeting](2025/08-22-department-weekly-meeting.md)
 - [2025-08-25: IT + DT Weekly Kick Off Call](2025/08-25-weekly-kick-off-call.md)
 - [2025-08-29: Department Weekly Meeting](2025/08-29-department-weekly-meeting.md)
+### September
+- [2025-09-02: IT + DT Weekly Kick Off Call](2025/09-02-weekly-kick-off-call.md)

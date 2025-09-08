@@ -16,3 +16,4 @@
 ### September
 - [2025-09-02: IT + DT Weekly Kick Off Call](2025/09-02-weekly-kick-off-call.md)
 - [2025-09-05: Department Weekly Meeting](2025/09-05-department-weekly-meeting.md)
+- [2025-09-02: IT + DT Weekly Kick Off Call](2025/09-08-weekly-kick-off-call.md)
